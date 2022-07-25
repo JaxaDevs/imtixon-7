@@ -1,0 +1,15 @@
+#j1{
+    overflow: scroll;
+    height: 450px;
+}
+@media only screen and (max-width: 600px){
+    #j2{
+        display: none;
+    }
+    #j3{
+        display: none;
+    }
+}
+@media only screen and (min-width: 600px){
+
+}
